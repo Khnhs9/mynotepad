@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kh\u00E1nh\\\u0110\u1EA1i h\u1ECDc\\\u0110\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09C\uD504\uB85C\uADF8\uB798\uBC0D\\MyNotepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286F7BCF-6033-4519-8F95-D97887A86DAA}|MyNotepad\\MyNotepad.csproj|D:\\Kh\u00E1nh\\\u0110\u1EA1i h\u1ECDc\\\u0110\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09C\uD504\uB85C\uADF8\uB798\uBC0D\\MyNotepad\\mynotepad\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{286F7BCF-6033-4519-8F95-D97887A86DAA}|MyNotepad\\MyNotepad.csproj|solutionrelative:mynotepad\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286F7BCF-6033-4519-8F95-D97887A86DAA}|MyNotepad\\MyNotepad.csproj|d:\\kh\u00E1nh\\\u0111\u1EA1i h\u1ECDc\\\u0111\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09c\uD504\uB85C\uADF8\uB798\uBC0D\\mynotepad\\mynotepad\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286F7BCF-6033-4519-8F95-D97887A86DAA}|MyNotepad\\MyNotepad.csproj|solutionrelative:mynotepad\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Kh\u00E1nh\\\u0110\u1EA1i h\u1ECDc\\\u0110\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09C\uD504\uB85C\uADF8\uB798\uBC0D\\MyNotepad\\MyNotepad\\MainForm.cs",
+              "RelativeDocumentMoniker": "MyNotepad\\MainForm.cs",
+              "ToolTip": "D:\\Kh\u00E1nh\\\u0110\u1EA1i h\u1ECDc\\\u0110\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09C\uD504\uB85C\uADF8\uB798\uBC0D\\MyNotepad\\MyNotepad\\MainForm.cs",
+              "RelativeToolTip": "MyNotepad\\MainForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:46:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Kh\u00E1nh\\\u0110\u1EA1i h\u1ECDc\\\u0110\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09C\uD504\uB85C\uADF8\uB798\uBC0D\\MyNotepad\\MyNotepad\\MainForm.cs",
+              "RelativeDocumentMoniker": "MyNotepad\\MainForm.cs",
+              "ToolTip": "D:\\Kh\u00E1nh\\\u0110\u1EA1i h\u1ECDc\\\u0110\u1EA1i c\u01B0\u01A1ng\\2-hk1\\\uACE0\uAE09C\uD504\uB85C\uADF8\uB798\uBC0D\\MyNotepad\\MyNotepad\\MainForm.cs [Design]",
+              "RelativeToolTip": "MyNotepad\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:43:27.241Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
